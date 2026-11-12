@@ -1,15 +1,15 @@
-Age of Defense
-Documentacion FORMAL
-Analisis
-Lucas Mascheroni
+# Age of Defense
+# Documentacion FORMAL
+# Analisis
+## Lucas Mascheroni
 
-¿Que se encontrara en este documento? / Indice
+# ¿Que se encontrara en este documento? / Indice
 Introduccion y mision
-Requisitos Funcionales ( Aca deberia clickear e ir alli)
+Requisitos Funcionales 
 Requisitos no funcionales
 
 
-Introduccion y mision
+## Introduccion y mision
 
 Este proyecto inicio a partir de un recuerdo nostalgico mio sobre un juego de mi infancia, lalmado “Garfield defense” tambien encontrado a dia de hoy como “Garfield War”, es un juego sencillo y muy entretenido, aunque avanzado para su epoca debo admitir, es un juego 2d donde uno debia defenser su base y atacar la del rival.
 Si bien esta inspirado en el, se distinguira mucho del juego orginal para evitar un Copy-Paste del mismo o incluso peor, una demanda por Copyrigth, ademas de que perderia en efecto, lo mas maravilloso de construir un software o projecto por si mismo, añadirle eso brillo magico que cada uno de nosotros posee.
@@ -17,7 +17,7 @@ A continuacion se estructura todo
 
 
 
-REQUISITOS FUNCIONALES
+## REQUISITOS FUNCIONALES
 
 
 RF-001: El jugador podra atacar, presionando un unico input de accion , el cual infligira daño al enemigo mas cercano (Restandole HP).
@@ -32,7 +32,7 @@ RF-008: El sistema debera comandar su propia base, podra desplegar sus propias t
 
 
 
-REQUISITOS NO FUNCIONALES
+## REQUISITOS NO FUNCIONALES
 
 2
 

@@ -1,8 +1,8 @@
-CASOS DE USO
-INICIAR PARTIDA
-Proyecto: Age Of Defense
+# CASOS DE USO
+# INICIAR PARTIDA
+## Proyecto: Age Of Defense
 
-CU-01: Iniciar partida
+## CU-01: Iniciar partida
 Actor principal: Usuario
 otros actores: Sistema
 Nivel/Alcance: Usuario
@@ -11,6 +11,7 @@ Precondiciones: El jugador existe y esta activo y los niveles  existen en la per
 1. El usuario navega entre el menu principal dandole  el mismo a  JUGAR => Niveles => se desplasa por un mapa tematico por comida hasta el ultimo nivel que esta  seleccionandolo y dandole al boton JUGAR.
 2. El usuario juega el nivel como lo haria, controlando su personaje, generando su ejercito y tropas y manejando su economia y HP de su base, intentando ganar la partida.
 
+## Alternativos 
 1.1 : El usuario quiere jugar otro nivel que ya hizo.
 1.1A. EL usuario lo selecciona y le da jugar.
 1.2B. dirijase al paso 2.

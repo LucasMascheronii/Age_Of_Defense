@@ -1,8 +1,8 @@
-CASOS DE USO
-COMPRAR MEJORA
-Proyecto: Age Of Defense
+# CASOS DE USO
+# COMPRAR MEJORA
+# Proyecto: Age Of Defense
 
-CU-02: Comprar  Mejora.
+## CU-02: Comprar  Mejora.
 Actor principal: Usuario.
 otros actores: Sistema.
 Nivel/Alcance: Usuario.
@@ -15,7 +15,7 @@ Precondiciones: El jugador existe y esta activo y las  mejoras existen en la per
 4. SISTEMA valida tenga cantidad de donas suficiente para comprar ( precio mejora <= cantidad donas doradas que el Usuario posee).
 5. SISTEMA descuenta el costo, registra el mismo y lo guarda, actualiza las Donas Doradas del usuario, y  muestra  un mensaje de exito. (Comentario adicional ***) 
 
-ALTERNATIVOS
+## ALTERNATIVOS
 1-4* Ocurre un error.
 1-4*. 1 : Sistema informa a usuario con nombre y numero de error, ofreciendole volver al menu y reintentar.
 1-4*.1.2 dirijase al paso 1.

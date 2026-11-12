@@ -15,7 +15,7 @@ A continuacion se estructura todo. Usted debería leer lo que se encuentra en es
 
 ---
 
-## Accesos Directos (Click Aquí)
+## Accesos Directos
 *Haga clic en los siguientes enlaces para navegar por la documentación formal:*
 
 * 📄 **[Reglas del Juego y Lógica de Negocio](./docs/reglas_de_negocio.md)**
